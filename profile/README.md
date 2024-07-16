@@ -1,6 +1,6 @@
 ## Semester 1
 
-### Code 1
+### [Code 1](https://github.com/HFUGMB24/Code1)
 
  - [cursed](https://github.com/HFUGMB24/cursed)
  - [Horror-Snake](https://github.com/HFUGMB24/Horror-Snake)
